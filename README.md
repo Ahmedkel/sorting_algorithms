@@ -4,7 +4,7 @@ CAlgorithmData structure
 
 -   By: Alexandre Gautier
 -   Weight: 2
--   Project to be done in teams of 2 people (your team: Badreddine Bentiah, Nour MELLAL)
+-   Project to be done in teams of 2 people (your team: Ahmed KELLOUCH, Youssef Ait elmahi)
 -   Project will start Jul 19, 2023 4:00 AM, must end by Jul 26, 2023 4:00 AM
 -   Checker will be released at Jul 20, 2023 10:00 PM
 -   An auto review will be launched at the deadline
