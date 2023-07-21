@@ -6,9 +6,9 @@
  */
 void swap(int *a, int *b)
 {
-    int temp = *a;
-    *a = *b;
-    *b = temp;
+	int temp = *a;
+	*a = *b;
+	*b = temp;
 }
 /**
  * bubble_sort - sorts an array of integers.
@@ -18,9 +18,9 @@ void swap(int *a, int *b)
 
 void bubble_sort(int *array, size_t size)
 {
-    size_t i, j;
+	size_t i, j;
 
-	if(size < 2 || array == NULL)
+	if (size < 2 || array == NULL)
 		return;
 	for (i = size - 1; i >= 1; i--)
 	{
