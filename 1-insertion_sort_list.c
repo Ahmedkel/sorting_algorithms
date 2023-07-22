@@ -6,10 +6,10 @@
  */
 void insertion_sort_list(listint_t **list)
 {
+	listint_t *current, *nxt, *tmp;
+
 	if (list == NULL || *list == NULL || (*list)->next == NULL)
 		return; /* Nothing to sort or only one element */
-
-	listint_t *current, *nxt, *tmp;
 
 	current = (*list)->next; /* Start with the second node */
 
