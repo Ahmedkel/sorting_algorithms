@@ -17,6 +17,7 @@ void swap(int *a, int *b)
  * @array: array of integers to sort.
  * @size: size of the array.
  */
+
 void selection_sort(int *array, size_t size)
 {
 	unsigned int i, j, min;
