@@ -503,4 +503,3 @@ Done?! Help
 
 #### Learners who are done with "3. Quick sort"
 
-Copyright © 2023 ALX, All rights reserved.
